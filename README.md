@@ -1,4 +1,4 @@
-# Portal Turístico- Brasil Encantado
+# Portal Turístico - Brasil Encantado
 
 ## Descrição
 Portal turístico com destinos, gastronomia e cultura do Brasil.
