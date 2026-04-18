@@ -1,4 +1,4 @@
-# Prova P1 - Brasil Encantado
+# Portal Turístico- Brasil Encantado
 
 ## Descrição
 Portal turístico com destinos, gastronomia e cultura do Brasil.
@@ -7,4 +7,4 @@ Portal turístico com destinos, gastronomia e cultura do Brasil.
 - Guilherme Henrique Silvério Francisco
 
 ## Link do site
-https://github.com/Guilherme-Silverio/portal-turistico.git
+https://guilherme-silverio.github.io/portal-turistico/
